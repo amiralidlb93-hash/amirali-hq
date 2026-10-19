@@ -53,7 +53,7 @@ Open `index.html` in your browser.
 
 ### 🚀 دمو زنده
 
-**👉 [amiralidlb93-hash.github.io](https://amiralidlb93-hash.github.io)**
+👉 **[enter the live demo](https://amiralidlb93-hash.github.io/amirali-hq/)**
 
 ### ✨ ویژگی‌ها
 
