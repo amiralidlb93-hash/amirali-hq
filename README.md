@@ -3,6 +3,7 @@
 ### 📌 Pinned projects. 🗂 Every repo. 🌓 Light & dark.
 
 A personal HQ site that showcases my pinned projects and lists every repository on my GitHub account, in a single dependency-free HTML file.
+
 Status: in the development
 
 [🇬🇧 English](#english) • [🇮🇷 فارسی](#فارسی)
