@@ -41,7 +41,7 @@ HTML · CSS · JavaScript
 ### 💻 Run locally
 
 ```bash
-git clone https://github.com/amiralidlb93-hash/amiralidlb93-hash.github.io.git
+git clone https://amiralidlb93-hash.github.io/amirali-hq/
 cd amiralidlb93-hash.github.io
 ```
 
