@@ -42,7 +42,7 @@ HTML · CSS · JavaScript
 
 ```bash
 git clone https://amiralidlb93-hash.github.io/amirali-hq/
-cd amiralidlb93-hash.github.io
+cd amiralidlb93-hash.github.io/amirali-hq/
 ```
 
 Open `index.html` in your browser.
