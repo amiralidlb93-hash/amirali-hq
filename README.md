@@ -14,7 +14,7 @@ Status: in the development
 
 ### 🚀 Live Demo
 
-👉 **[enter the live demo](https://amiralidlb93-hash.github.io/amirali-hq/)**
+👉 **[enter the live demo!](https://amiralidlb93-hash.github.io/amirali-hq/)**
 
 ### ✨ Features
 
@@ -53,7 +53,7 @@ Open `index.html` in your browser.
 
 ### 🚀 دمو زنده
 
-👉 **[enter the live demo](https://amiralidlb93-hash.github.io/amirali-hq/)**
+👉 **[enter the live demo!](https://amiralidlb93-hash.github.io/amirali-hq/)**
 
 ### ✨ ویژگی‌ها
 
