@@ -12,7 +12,7 @@ A personal HQ site that showcases my pinned projects and lists every repository 
 
 ### 🚀 Live Demo
 
-**👉 [amiralidlb93-hash.github.io](https://amiralidlb93-hash.github.io)**
+**👉 **[enter the live demo](https://amiralidlb93-hash.github.io/amirali-hq/)**
 
 ### ✨ Features
 
