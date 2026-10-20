@@ -41,8 +41,8 @@ HTML · CSS · JavaScript
 ### 💻 Run locally
 
 ```bash
-git clone https://amiralidlb93-hash.github.io/amirali-hq/
-cd amiralidlb93-hash.github.io/amirali-hq/
+git clone https://github.com/amiralidlb93-hash/amirali-hq.git
+cd amirali-hq
 ```
 
 Open `index.html` in your browser.
@@ -71,8 +71,8 @@ HTML · CSS · JavaScript
 ### 💻 اجرا روی سیستم خودتان
 
 ```bash
-git clone https://github.com/amiralidlb93-hash/amiralidlb93-hash.github.io.git
-cd amiralidlb93-hash.github.io
+git clone https://github.com/amiralidlb93-hash/amirali-hq.git
+cd amirali-hq
 ```
 
 فایل `index.html` را در مرورگر باز کنید.
